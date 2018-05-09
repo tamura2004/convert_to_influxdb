@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <script type="text/javascript">
+  window.onload = function () {
+    var chart = new CanvasJS.Chart("chartContainer1",
+    {
+
+      title:{
+      text: "CPU"
+      },
+      axisX: {
+        valueFormatString: "HH:mm",
+        intervel: 4
+      },
+      data: [
+      {
+        type: "line",
+
+        dataPoints: [
+        { x: new Date(2012, 00, 1, 12, 0, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 2, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 4, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 6, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 8, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 10, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 12, 0), y: 450 },
+        { x: new Date(2012, 00, 1, 12, 14, 0), y: 450 }
+        ]
+      }
+      ]
+    });
+
+    chart.render();
+
+    var chart = new CanvasJS.Chart("chartContainer2",
+    {
+
+      title:{
+      text: "memory"
+      },
+       data: [
+      {
+        type: "line",
+
+        dataPoints: [
+        { x: new Date(2012, 00, 1), y: 450 },
+        { x: new Date(2012, 01, 1), y: 414 },
+        { x: new Date(2012, 02, 1), y: 520 },
+        { x: new Date(2012, 03, 1), y: 460 },
+        { x: new Date(2012, 04, 1), y: 450 },
+        { x: new Date(2012, 05, 1), y: 500 },
+        { x: new Date(2012, 06, 1), y: 480 },
+        { x: new Date(2012, 07, 1), y: 480 },
+        { x: new Date(2012, 08, 1), y: 410 },
+        { x: new Date(2012, 09, 1), y: 500 },
+        { x: new Date(2012, 10, 1), y: 480 },
+        { x: new Date(2012, 11, 1), y: 510 }
+        ]
+      }
+      ]
+    });
+
+    chart.render();
+  }
+  </script>
+ <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script></head>
+<body>
+  <div id="chartContainer1" style="height: 200px; width: 100%;"></div>
+  <div id="chartContainer2" style="height: 200px; width: 100%;"></div>
+</body>
+</html>

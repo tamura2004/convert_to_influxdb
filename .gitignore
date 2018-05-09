@@ -1,0 +1,12 @@
+tora*/
+influx*/
+tool/
+csvbk/
+D2SD/
+*.csv
+*.line
+*.blg
+*.xlsx
+*.zip
+*.pdf
+*.gif

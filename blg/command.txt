@@ -1,0 +1,40 @@
+relog *.blg -f csv -o transition_pages_repurposed.csv -c "\Memory\Transition Pages RePurposed/sec"
+relog *.blg -f csv -o free_and_zero_page_list_bytes.csv -c "\Memory\Free & Zero Page List Bytes"
+
+relog *.blg -f csv -o Process_MicrosoftEdgeCP_Working_Set.csv -c "\Process(MicrosoftEdgeCP)\Working Set"
+
+relog R7400541_20180501-000002.blg -f csv -o R7400541_20180501-000002_all.csv
+relog R7400541_20180501-000001.blg -f csv -o R7400541_20180501-000001_all.csv
+
+relog R7400541_20180502-000003.blg -f csv -o R7400541_20180502-000003_all.csv
+relog R7400541_20180502-000004.blg -f csv -o R7400541_20180502-000004_all.csv
+relog R7400541_20180502-000005.blg -f csv -o R7400541_20180502-000005_all.csv
+
+relog A1SDI603*.blg -f csv -o A1SDI603_all.csv
+relog A1SDI605*.blg -f csv -o A1SDI605_all.csv
+
+
+relog D3SD*.blg -f csv -o D3SD_all.csv
+relog 5CG7*.blg -f csv -o 5CG7_all.csv
+
+
+
+relog *.blg -f csv -o System_Processes.csv -c "\System\Processes"
+relog *.blg -f csv -o Percent_Committed_Bytes_In_Use.csv -c "\Memory\% Committed Bytes In Use"
+relog *.blg -f csv -o system_up_time.csv -c "\System\System Up Time"
+
+relog *.blg -f csv -o processor_time_total -c "\Processor(_Total)\% Processor Time"
+
+
+relog *.blg -f csv -o mspdfreader -c "\Process(MicrosoftPdfReader)\Pool Paged Bytes"
+relog *.blg -f csv -o mspdfreader1 -c "\Process(MicrosoftPdfReader#1)\Pool Paged Bytes"
+relog *.blg -f csv -o process_microsoft_pool_paged_bytes -c "\Process(Microsoft*)\Pool Paged Bytes"
+
+relog *.blg -f csv -o process_wireshark_pool_paged_bytes -c "\Process(Wire*)\Pool Paged Bytes" "\Process(WinP*)\Pool Paged Bytes"
+
+relog *.blg -f csv -o memory_pages_sec -c "\Memory\Pages/sec"
+
+relog R7400*.blg -f csv -o r7400_0502_1133 -b "2018/05/02 11:33:00" -e "2018/05/02 11:34:00"
+
+relog *.blg -f csv -o network_interface_bytes_total -c "\Network Interface(*)\Bytes Total/sec"
+\\R7400541\Network Interface(Intel[R] Dual Band Wireless-AC 8260)\Bytes Total/sec
