@@ -2,7 +2,7 @@ tora*/
 influx*/
 tool/
 csvbk/
-D2SD/
+D2SD*/
 *.csv
 *.line
 *.blg
@@ -10,3 +10,9 @@ D2SD/
 *.zip
 *.pdf
 *.gif
+*.pcap
+*.log
+*.etl
+*.xml
+*.dml
+*.mht

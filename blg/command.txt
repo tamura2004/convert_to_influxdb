@@ -38,3 +38,11 @@ relog R7400*.blg -f csv -o r7400_0502_1133 -b "2018/05/02 11:33:00" -e "2018/05/
 
 relog *.blg -f csv -o network_interface_bytes_total -c "\Network Interface(*)\Bytes Total/sec"
 \\R7400541\Network Interface(Intel[R] Dual Band Wireless-AC 8260)\Bytes Total/sec
+
+relog *.blg -f csv -o process_wireshark_pool_pages_bytes -c "\Process(Wireshark)\Pool Paged Bytes"
+
+relog *.blg -f csv -o process_wireshark_private_bytes -c "\Process(Wireshark)\Private Bytes"
+
+relog *.blg -f csv -o process_microsoft_private_bytes -c "\Process(Microsoft*)\Private Bytes"
+
+relog *.blg -f csv -o process_percent_processor_time -c "\Process(*)\% Processor Time"

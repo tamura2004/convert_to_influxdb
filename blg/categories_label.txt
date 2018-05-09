@@ -1,0 +1,382 @@
+Memory    % Committed Bytes In Use
+Memory    Available Bytes
+Memory    Available KBytes
+Memory    Available MBytes
+Memory    Cache Bytes
+Memory    Cache Bytes Peak
+Memory    Cache Faults/sec
+Memory    Commit Limit
+Memory    Committed Bytes
+Memory    Demand Zero Faults/sec
+Memory    Free & Zero Page List Bytes
+Memory    Free System Page Table Entries
+Memory    Long-Term Average Standby Cache Lifetime (*)
+Memory    Modified Page List Bytes
+Memory    Page Faults/sec
+Memory    Page Reads/sec
+Memory    Page Writes/sec
+Memory    Pages Input/sec
+Memory    Pages Output/sec
+Memory    Pages/sec
+Memory    Pool Nonpaged Allocs
+Memory    Pool Nonpaged Bytes
+Memory    Pool Paged Allocs
+Memory    Pool Paged Bytes
+Memory    Pool Paged Resident Bytes
+Memory    Standby Cache Core Bytes
+Memory    Standby Cache Normal Priority Bytes
+Memory    Standby Cache Reserve Bytes
+Memory    System Cache Resident Bytes
+Memory    System Code Resident Bytes
+Memory    System Code Total Bytes
+Memory    System Driver Resident Bytes
+Memory    System Driver Total Bytes
+Memory    Transition Faults/sec
+Memory    Transition Pages RePurposed/sec
+Memory    Write Copies/sec
+Network Interface(*)     Bytes Received/sec
+Network Interface(*)     Bytes Sent/sec
+Network Interface(*)     Bytes Total/sec
+Network Interface(*)     Current Bandwidth
+Network Interface(*)     Offloaded Connections
+Network Interface(*)     Output Queue Length
+Network Interface(*)     Packets Outbound Discarded
+Network Interface(*)     Packets Outbound Errors
+Network Interface(*)     Packets Received Discarded
+Network Interface(*)     Packets Received Errors
+Network Interface(*)     Packets Received Non-Unicast/sec
+Network Interface(*)     Packets Received Unicast/sec
+Network Interface(*)     Packets Received Unknown
+Network Interface(*)     Packets Received/sec
+Network Interface(*)     Packets Sent Non-Unicast/sec
+Network Interface(*)     Packets Sent Unicast/sec
+Network Interface(*)     Packets Sent/sec
+Network Interface(*)     Packets/sec
+Network Interface(*)     TCP Active RSC Connections
+Network Interface(*)     TCP RSC Average Packet Size
+Network Interface(*)     TCP RSC Coalesced Packets/sec
+Network Interface(*)     TCP RSC Exceptions/sec
+Network Interface(*)    Bytes Received/sec
+Network Interface(*)    Bytes Sent/sec
+Network Interface(*)    Bytes Total/sec
+Network Interface(*)    Current Bandwidth
+Network Interface(*)    Offloaded Connections
+Network Interface(*)    Output Queue Length
+Network Interface(*)    Packets Outbound Discarded
+Network Interface(*)    Packets Outbound Errors
+Network Interface(*)    Packets Received Discarded
+Network Interface(*)    Packets Received Errors
+Network Interface(*)    Packets Received Non-Unicast/sec
+Network Interface(*)    Packets Received Unicast/sec
+Network Interface(*)    Packets Received Unknown
+Network Interface(*)    Packets Received/sec
+Network Interface(*)    Packets Sent Non-Unicast/sec
+Network Interface(*)    Packets Sent Unicast/sec
+Network Interface(*)    Packets Sent/sec
+Network Interface(*)    Packets/sec
+Network Interface(*)    TCP Active RSC Connections
+Network Interface(*)    TCP RSC Average Packet Size
+Network Interface(*)    TCP RSC Coalesced Packets/sec
+Network Interface(*)    TCP RSC Exceptions/sec
+Network Interface(*)  Bytes Received/sec
+Network Interface(*)  Bytes Sent/sec
+Network Interface(*)  Bytes Total/sec
+Network Interface(*)  Current Bandwidth
+Network Interface(*)  Offloaded Connections
+Network Interface(*)  Output Queue Length
+Network Interface(*)  Packets Outbound Discarded
+Network Interface(*)  Packets Outbound Errors
+Network Interface(*)  Packets Received Discarded
+Network Interface(*)  Packets Received Errors
+Network Interface(*)  Packets Received Non-Unicast/sec
+Network Interface(*)  Packets Received Unicast/sec
+Network Interface(*)  Packets Received Unknown
+Network Interface(*)  Packets Received/sec
+Network Interface(*)  Packets Sent Non-Unicast/sec
+Network Interface(*)  Packets Sent Unicast/sec
+Network Interface(*)  Packets Sent/sec
+Network Interface(*)  Packets/sec
+Network Interface(*)  TCP Active RSC Connections
+Network Interface(*)  TCP RSC Average Packet Size
+Network Interface(*)  TCP RSC Coalesced Packets/sec
+Network Interface(*)  TCP RSC Exceptions/sec
+Network Interface(*) Bytes Received/sec
+Network Interface(*) Bytes Sent/sec
+Network Interface(*) Bytes Total/sec
+Network Interface(*) Current Bandwidth
+Network Interface(*) Offloaded Connections
+Network Interface(*) Output Queue Length
+Network Interface(*) Packets Outbound Discarded
+Network Interface(*) Packets Outbound Errors
+Network Interface(*) Packets Received Discarded
+Network Interface(*) Packets Received Errors
+Network Interface(*) Packets Received Non-Unicast/sec
+Network Interface(*) Packets Received Unicast/sec
+Network Interface(*) Packets Received Unknown
+Network Interface(*) Packets Received/sec
+Network Interface(*) Packets Sent Non-Unicast/sec
+Network Interface(*) Packets Sent Unicast/sec
+Network Interface(*) Packets Sent/sec
+Network Interface(*) Packets/sec
+Network Interface(*) TCP Active RSC Connections
+Network Interface(*) TCP RSC Average Packet Size
+Network Interface(*) TCP RSC Coalesced Packets/sec
+Network Interface(*) TCP RSC Exceptions/sec
+PhysicalDisk(*)     % Disk Read Time
+PhysicalDisk(*)     % Disk Time
+PhysicalDisk(*)     % Disk Write Time
+PhysicalDisk(*)     % Idle Time
+PhysicalDisk(*)     Avg. Disk Bytes/Read
+PhysicalDisk(*)     Avg. Disk Bytes/Transfer
+PhysicalDisk(*)     Avg. Disk Bytes/Write
+PhysicalDisk(*)     Avg. Disk Queue Length
+PhysicalDisk(*)     Avg. Disk Read Queue Length
+PhysicalDisk(*)     Avg. Disk sec/Read
+PhysicalDisk(*)     Avg. Disk sec/Transfer
+PhysicalDisk(*)     Avg. Disk sec/Write
+PhysicalDisk(*)     Avg. Disk Write Queue Length
+PhysicalDisk(*)     Current Disk Queue Length
+PhysicalDisk(*)     Disk Bytes/sec
+PhysicalDisk(*)     Disk Read Bytes/sec
+PhysicalDisk(*)     Disk Reads/sec
+PhysicalDisk(*)     Disk Transfers/sec
+PhysicalDisk(*)     Disk Write Bytes/sec
+PhysicalDisk(*)     Disk Writes/sec
+PhysicalDisk(*)     Split IO/Sec
+PhysicalDisk(*)  % Disk Read Time
+PhysicalDisk(*)  % Disk Time
+PhysicalDisk(*)  % Disk Write Time
+PhysicalDisk(*)  % Idle Time
+PhysicalDisk(*)  Avg. Disk Bytes/Read
+PhysicalDisk(*)  Avg. Disk Bytes/Transfer
+PhysicalDisk(*)  Avg. Disk Bytes/Write
+PhysicalDisk(*)  Avg. Disk Queue Length
+PhysicalDisk(*)  Avg. Disk Read Queue Length
+PhysicalDisk(*)  Avg. Disk sec/Read
+PhysicalDisk(*)  Avg. Disk sec/Transfer
+PhysicalDisk(*)  Avg. Disk sec/Write
+PhysicalDisk(*)  Avg. Disk Write Queue Length
+PhysicalDisk(*)  Current Disk Queue Length
+PhysicalDisk(*)  Disk Bytes/sec
+PhysicalDisk(*)  Disk Read Bytes/sec
+PhysicalDisk(*)  Disk Reads/sec
+PhysicalDisk(*)  Disk Transfers/sec
+PhysicalDisk(*)  Disk Write Bytes/sec
+PhysicalDisk(*)  Disk Writes/sec
+PhysicalDisk(*)  Split IO/Sec
+Process(*)     % Privileged Time
+Process(*)     % Processor Time
+Process(*)     % User Time
+Process(*)     Creating Process ID
+Process(*)     Elapsed Time
+Process(*)     Handle Count
+Process(*)     ID Process
+Process(*)     IO Data Bytes/sec
+Process(*)     IO Data Operations/sec
+Process(*)     IO Other Bytes/sec
+Process(*)     IO Other Operations/sec
+Process(*)     IO Read Bytes/sec
+Process(*)     IO Read Operations/sec
+Process(*)     IO Write Bytes/sec
+Process(*)     IO Write Operations/sec
+Process(*)     Page Faults/sec
+Process(*)     Page File Bytes
+Process(*)     Page File Bytes Peak
+Process(*)     Pool Nonpaged Bytes
+Process(*)     Pool Paged Bytes
+Process(*)     Priority Base
+Process(*)     Private Bytes
+Process(*)     Thread Count
+Process(*)     Virtual Bytes
+Process(*)     Virtual Bytes Peak
+Process(*)     Working Set
+Process(*)     Working Set - Private
+Process(*)     Working Set Peak
+Process(*)    % Privileged Time
+Process(*)    % Processor Time
+Process(*)    % User Time
+Process(*)    Creating Process ID
+Process(*)    Elapsed Time
+Process(*)    Handle Count
+Process(*)    ID Process
+Process(*)    IO Data Bytes/sec
+Process(*)    IO Data Operations/sec
+Process(*)    IO Other Bytes/sec
+Process(*)    IO Other Operations/sec
+Process(*)    IO Read Bytes/sec
+Process(*)    IO Read Operations/sec
+Process(*)    IO Write Bytes/sec
+Process(*)    IO Write Operations/sec
+Process(*)    Page Faults/sec
+Process(*)    Page File Bytes
+Process(*)    Page File Bytes Peak
+Process(*)    Pool Nonpaged Bytes
+Process(*)    Pool Paged Bytes
+Process(*)    Priority Base
+Process(*)    Private Bytes
+Process(*)    Thread Count
+Process(*)    Virtual Bytes
+Process(*)    Virtual Bytes Peak
+Process(*)    Working Set
+Process(*)    Working Set - Private
+Process(*)    Working Set Peak
+Process(*)   % Privileged Time
+Process(*)   % Processor Time
+Process(*)   % User Time
+Process(*)   Creating Process ID
+Process(*)   Elapsed Time
+Process(*)   Handle Count
+Process(*)   ID Process
+Process(*)   IO Data Bytes/sec
+Process(*)   IO Data Operations/sec
+Process(*)   IO Other Bytes/sec
+Process(*)   IO Other Operations/sec
+Process(*)   IO Read Bytes/sec
+Process(*)   IO Read Operations/sec
+Process(*)   IO Write Bytes/sec
+Process(*)   IO Write Operations/sec
+Process(*)   Page Faults/sec
+Process(*)   Page File Bytes
+Process(*)   Page File Bytes Peak
+Process(*)   Pool Nonpaged Bytes
+Process(*)   Pool Paged Bytes
+Process(*)   Priority Base
+Process(*)   Private Bytes
+Process(*)   Thread Count
+Process(*)   Virtual Bytes
+Process(*)   Virtual Bytes Peak
+Process(*)   Working Set
+Process(*)   Working Set - Private
+Process(*)   Working Set Peak
+Process(*)  % Privileged Time
+Process(*)  % Processor Time
+Process(*)  % User Time
+Process(*)  Creating Process ID
+Process(*)  Elapsed Time
+Process(*)  Handle Count
+Process(*)  ID Process
+Process(*)  IO Data Bytes/sec
+Process(*)  IO Data Operations/sec
+Process(*)  IO Other Bytes/sec
+Process(*)  IO Other Operations/sec
+Process(*)  IO Read Bytes/sec
+Process(*)  IO Read Operations/sec
+Process(*)  IO Write Bytes/sec
+Process(*)  IO Write Operations/sec
+Process(*)  Page Faults/sec
+Process(*)  Page File Bytes
+Process(*)  Page File Bytes Peak
+Process(*)  Pool Nonpaged Bytes
+Process(*)  Pool Paged Bytes
+Process(*)  Priority Base
+Process(*)  Private Bytes
+Process(*)  Thread Count
+Process(*)  Virtual Bytes
+Process(*)  Virtual Bytes Peak
+Process(*)  Working Set
+Process(*)  Working Set - Private
+Process(*)  Working Set Peak
+Process(*) % Privileged Time
+Process(*) % Processor Time
+Process(*) % User Time
+Process(*) Creating Process ID
+Process(*) Elapsed Time
+Process(*) Handle Count
+Process(*) ID Process
+Process(*) IO Data Bytes/sec
+Process(*) IO Data Operations/sec
+Process(*) IO Other Bytes/sec
+Process(*) IO Other Operations/sec
+Process(*) IO Read Bytes/sec
+Process(*) IO Read Operations/sec
+Process(*) IO Write Bytes/sec
+Process(*) IO Write Operations/sec
+Process(*) Page Faults/sec
+Process(*) Page File Bytes
+Process(*) Page File Bytes Peak
+Process(*) Pool Nonpaged Bytes
+Process(*) Pool Paged Bytes
+Process(*) Priority Base
+Process(*) Private Bytes
+Process(*) Thread Count
+Process(*) Virtual Bytes
+Process(*) Virtual Bytes Peak
+Process(*) Working Set
+Process(*) Working Set - Private
+Process(*) Working Set Peak
+Processor Performance(*)  % of Maximum Frequency
+Processor Performance(*)  Processor Frequency
+Processor Performance(*)  Processor State Flags
+Processor(*)   % C1 Time
+Processor(*)   % C2 Time
+Processor(*)   % C3 Time
+Processor(*)   % DPC Time
+Processor(*)   % Idle Time
+Processor(*)   % Interrupt Time
+Processor(*)   % Privileged Time
+Processor(*)   % Processor Time
+Processor(*)   % User Time
+Processor(*)   C1 Transitions/sec
+Processor(*)   C2 Transitions/sec
+Processor(*)   C3 Transitions/sec
+Processor(*)   DPC Rate
+Processor(*)   DPCs Queued/sec
+Processor(*)   Interrupts/sec
+Server    Blocking Requests Rejected
+Server    Bytes Received/sec
+Server    Bytes Total/sec
+Server    Bytes Transmitted/sec
+Server    Context Blocks Queued/sec
+Server    Errors Access Permissions
+Server    Errors Granted Access
+Server    Errors Logon
+Server    Errors System
+Server    File Directory Searches
+Server    Files Open
+Server    Files Opened Total
+Server    Logon Total
+Server    Logon/sec
+Server    Pool Nonpaged Bytes
+Server    Pool Nonpaged Failures
+Server    Pool Nonpaged Peak
+Server    Pool Paged Bytes
+Server    Pool Paged Failures
+Server    Pool Paged Peak
+Server    Reconnected Durable Handles
+Server    Reconnected Resilient Handles
+Server    Server Sessions
+Server    Sessions Errored Out
+Server    Sessions Forced Off
+Server    Sessions Logged Off
+Server    Sessions Timed Out
+Server    SMB BranchCache Hash Bytes Sent
+Server    SMB BranchCache Hash Generation Requests
+Server    SMB BranchCache Hash Header Requests
+Server    SMB BranchCache Hash Requests Received
+Server    SMB BranchCache Hash Responses Sent
+Server    SMB BranchCache Hash V2 Bytes Sent
+Server    SMB BranchCache Hash V2 Generation Requests
+Server    SMB BranchCache Hash V2 Header Requests
+Server    SMB BranchCache Hash V2 Requests Received
+Server    SMB BranchCache Hash V2 Requests Served From Dedup
+Server    SMB BranchCache Hash V2 Responses Sent
+Server    Total Durable Handles
+Server    Total Resilient Handles
+Server    Work Item Shortages
+System    % Registry Quota In Use
+System    Alignment Fixups/sec
+System    Context Switches/sec
+System    Exception Dispatches/sec
+System    File Control Bytes/sec
+System    File Control Operations/sec
+System    File Data Operations/sec
+System    File Read Bytes/sec
+System    File Read Operations/sec
+System    File Write Bytes/sec
+System    File Write Operations/sec
+System    Floating Emulations/sec
+System    Processes
+System    Processor Queue Length
+System    System Calls/sec
+System    System Up Time
+System    Threads
